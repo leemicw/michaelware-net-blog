@@ -1,7 +1,6 @@
 ---
 title: Memory Streams to Close() or Dispose()
-tags:
-  - Software
+tags: [C#]
 date: 2014-04-07 23:09:00
 ---
 

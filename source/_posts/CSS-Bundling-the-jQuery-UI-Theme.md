@@ -1,7 +1,6 @@
 ---
 title: CSS Bundling the jQuery UI Theme
-tags:
-  - Software
+tags: [asp.net, C#, IIS, URL Rewrite]
 date: 2014-07-16 20:48:00
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Using Marvin.JsonPatch and Swashbuckle to Generate Swagger Documents
-tags:
-  - Software
+tags: [javascript, JSON, web api]
 date: 2017-06-17 22:55:19
 ---
 

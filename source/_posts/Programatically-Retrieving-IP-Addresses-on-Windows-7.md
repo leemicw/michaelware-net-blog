@@ -1,7 +1,6 @@
 ---
 title: Programatically Retrieving IP Addresses on Windows 7
-tags:
-  - Software
+tags: [C#, Windows 7]
 date: 2010-02-17 21:41:00
 ---
 

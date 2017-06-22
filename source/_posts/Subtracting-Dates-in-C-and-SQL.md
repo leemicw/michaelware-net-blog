@@ -1,7 +1,6 @@
 ---
 title: 'Subtracting Dates in C# and SQL'
-tags:
-  - Software
+tags: [C#, SQL]
 date: 2010-03-04 20:40:00
 ---
 

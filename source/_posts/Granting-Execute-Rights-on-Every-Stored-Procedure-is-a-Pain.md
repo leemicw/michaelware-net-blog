@@ -1,7 +1,6 @@
 ---
 title: Granting Execute Rights on Every Stored Procedure is a Pain
-tags:
-  - Software
+tags: [SQL]
 date: 2014-05-30 20:52:00
 ---
 

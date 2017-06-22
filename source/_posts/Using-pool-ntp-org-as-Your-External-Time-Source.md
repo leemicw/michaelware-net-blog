@@ -1,7 +1,6 @@
 ---
 title: Using pool.ntp.org as Your External Time Source
-tags:
-  - Infrastructure
+tags: [Windows Server, NTP]
 date: 2010-09-07 20:21:00
 ---
 

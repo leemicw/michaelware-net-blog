@@ -1,7 +1,6 @@
 ---
 title: Installing the IE7 Developer Tools for Spoon.net
-tags:
-  - Software
+tags: [Testing]
 date: 2013-04-17 22:37:00
 ---
 

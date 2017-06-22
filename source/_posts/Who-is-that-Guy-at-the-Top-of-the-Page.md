@@ -1,7 +1,6 @@
 ---
 title: Who is that Guy at the Top of the Page?
-tags:
-  - Musings
+tags: 
 date: 2012-03-19 20:55:00
 ---
 

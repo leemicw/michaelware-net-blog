@@ -1,7 +1,6 @@
 ---
 title: Custom Attributes When Using Html.TextBoxFor
-tags:
-  - Software
+tags: [asp.net, asp.net mvc, C#]
 date: 2010-01-31 21:52:00
 ---
 

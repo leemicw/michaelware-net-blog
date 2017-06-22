@@ -2,7 +2,7 @@
 menu:
   Home: /
   Archives: /archives
-rss: /atom.xml
+rss: /feed/rss.xml
 
 # Content
 excerpt_link: Read More
@@ -11,8 +11,6 @@ fancybox: true
 # Sidebar
 sidebar: right
 widgets:
-- category
-- tag
 - tagcloud
 - archive
 - recent_posts
@@ -28,9 +26,9 @@ archive_type: 'monthly'
 show_count: false
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-10088772-1
 favicon: /favicon.png
-twitter:
+twitter: leemicw
 google_plus:
 fb_admins:
 fb_app_id:

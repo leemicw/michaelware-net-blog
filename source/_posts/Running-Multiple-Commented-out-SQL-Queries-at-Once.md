@@ -1,7 +1,6 @@
 ---
 title: Running Multiple Commented out SQL Queries at Once
-tags:
-  - Software
+tags: [SQL]
 date: 2015-04-15 19:52:00
 ---
 

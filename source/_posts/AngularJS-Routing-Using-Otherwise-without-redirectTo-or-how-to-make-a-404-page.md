@@ -1,9 +1,7 @@
 ---
 title: >-
-  AngularJS Routing: Using Otherwise without redirectTo (or how to make a 404
-  page)
-tags:
-  - Software
+  AngularJS Routing: Using Otherwise without redirectTo (or how to make a 404 page)
+tags: [AngularJS, javascript]
 date: 2014-04-24 00:08:00
 ---
 

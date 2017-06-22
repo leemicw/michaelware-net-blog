@@ -1,7 +1,6 @@
 ---
 title: Microsoft LifeChat LX-3000 Headset Review
-tags:
-  - Gadgets
+tags: 
 date: 2012-05-07 20:15:00
 ---
 

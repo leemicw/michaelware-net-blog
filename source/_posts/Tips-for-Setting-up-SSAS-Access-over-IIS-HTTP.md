@@ -1,8 +1,6 @@
 ---
 title: Tips for Setting up SSAS Access over IIS/HTTP
-tags:
-  - Infrastructure
-  - Software
+tags: [IIS, SSAS, Windows Server]
 date: 2015-05-28 20:09:00
 ---
 

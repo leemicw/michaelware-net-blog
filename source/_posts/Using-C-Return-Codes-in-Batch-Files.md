@@ -1,7 +1,6 @@
 ---
 title: 'Using C# Return Codes in Batch Files'
-tags:
-  - Software
+tags: [C#, cmd, Windows Server]
 date: 2011-02-10 20:19:00
 ---
 

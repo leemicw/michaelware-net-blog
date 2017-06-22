@@ -1,7 +1,6 @@
 ---
 title: Nokia Lumia 900 Review
-tags:
-  - Gadgets
+tags: [Windows Phone]
 date: 2012-07-27 00:14:00
 ---
 

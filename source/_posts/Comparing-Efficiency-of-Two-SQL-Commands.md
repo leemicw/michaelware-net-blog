@@ -1,7 +1,6 @@
 ---
 title: Comparing Efficiency of Two SQL Commands
-tags:
-  - Software
+tags: [SQL, Performance]
 date: 2012-12-28 21:09:00
 ---
 

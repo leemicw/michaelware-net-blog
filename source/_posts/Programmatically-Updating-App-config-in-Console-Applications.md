@@ -1,7 +1,6 @@
 ---
 title: Programmatically Updating App.config in Console Applications
-tags:
-  - Software
+tags: [C#, cmd, XML]
 date: 2011-08-17 01:25:00
 ---
 

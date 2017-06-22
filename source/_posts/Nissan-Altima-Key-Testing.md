@@ -1,7 +1,6 @@
 ---
 title: Nissan Altima Key Testing
-tags:
-  - Gadgets
+tags: [Testing]
 date: 2013-03-03 20:13:00
 ---
 
