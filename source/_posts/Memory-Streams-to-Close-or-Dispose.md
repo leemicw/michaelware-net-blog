@@ -6,11 +6,11 @@ date: 2014-04-07 23:09:00
 
 I was at the .net users group meeting the other night and we were discussing code analysis.&nbsp; Just for fun I ran it on the project I was working on that day and ran across this warning.&nbsp; 
 
-[![image](http://www.michaelware.net/image.axd?picture=image_thumb_6.png "image")](http://www.michaelware.net/image.axd?picture=image_6.png)
+![Dispose Warning](/content/images/2014/Memory-Streams-to-Close-or-Dispose/DisposeWarning.png)
 
 Here is (basically) the code that was causing it. 
 
-[![image](http://www.michaelware.net/image.axd?picture=image_thumb_7.png "image")](http://www.michaelware.net/image.axd?picture=image_7.png)
+![Code Sample](/content/images/2014/Memory-Streams-to-Close-or-Dispose/code.png)
 
 I asked, why is this an issue?&nbsp; A couple of comments.
 
@@ -24,7 +24,7 @@ The generally consensus was it should not do that because close never calls disp
 
 That seems reasonable, apart from having a public method I am told in the docs not to call.&nbsp; Going too far the other way removing both the .Close() and .Dispose() leaves us with this message.&nbsp; 
 
-[![image](http://www.michaelware.net/image.axd?picture=image_thumb_8.png "image")](http://www.michaelware.net/image.axd?picture=image_8.png)
+![No Dispose Warning](/content/images/2014/Memory-Streams-to-Close-or-Dispose/NoDisposeWarning.png)
 
 <font color="#0789c9"></font>
 

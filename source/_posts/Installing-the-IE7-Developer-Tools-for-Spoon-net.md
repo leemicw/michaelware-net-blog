@@ -16,6 +16,6 @@ Install the application (this requires admin rights)
 
 Launch IE7 from Spoon and you can activate the tools by going to the following menu: View-&gt;Explorer Bar-&gt; IE Developer Toolbar
 
-[![image](http://www.michaelware.net/image.axd?picture=image_thumb_2.png "image")](http://www.michaelware.net/image.axd?picture=image_2.png)
+![Toolbar Location](/content/images/2013/Installing-the-IE7-Developer-Tools-for-Spoon-net/ToolbarLocation.png)
 
 Happy Testing!

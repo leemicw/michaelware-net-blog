@@ -6,7 +6,7 @@ date: 2015-12-21 08:40:30
 
 So you’re in the zone, been coding all day, have all tools in just the right spot.&nbsp; Then BAM!&nbsp; The dreaded port is in use. 
 
-[![Error1](http://www.michaelware.net/image.axd?picture=Error1_thumb.png "Error1")](http://www.michaelware.net/image.axd?picture=Error1.png)
+![Port is in use error image](/content/images/2015/12/21/Error.png)
 
 Reading about this issue on stack overflow some people say its been chrome that has the port, or sometimes another process.&nbsp; For me, It’s always some orphaned or hung IIS Express process holding onto the port.&nbsp; Rarely, trying to start the debugger again will let you continue, but most of the time I had to resort to a reboot.&nbsp; This is obviously inconvenient and a waste of time.&nbsp; So here’s another option.&nbsp; 
 

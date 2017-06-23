@@ -20,7 +20,7 @@ app.config(function ($routeProvider) {
 
 That’s nice, but what if I want to have a 404 page? At this moment the angular docs don't give much of a hint to what is possible. 
 
-[![image](http://www.michaelware.net/image.axd?picture=image_thumb_10.png "image")](http://www.michaelware.net/image.axd?picture=image_10.png)
+![Angular Otherwise Documentation](/content/images/2014/AngularJS-Routing-Using-Otherwise-without-redirectTo-or-how-to-make-a-404-page/AngularDocs.png)
 
 I really wanted a default page that let the user know something went wrong instead of just sending them to the home page.&nbsp; This turns out to be quite easy.&nbsp; The example below loads it own Controller and View when no match is found.
 

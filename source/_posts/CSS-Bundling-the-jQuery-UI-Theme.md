@@ -6,7 +6,7 @@ date: 2014-07-16 20:48:00
 
 Its common in the projects I work on to have an images folder separate from the less/css folder.&nbsp; When jQuery UI is used its usually got its own folder as well.&nbsp; Here’s a sample with a number of things removed for clarity.
 
-[![image](http://www.michaelware.net/image.axd?picture=image_thumb_11.png "image")](http://www.michaelware.net/image.axd?picture=image_11.png)
+![JQueryUI Solution Explorer Sample](/content/images/2014/CSS-Bundling-the-jQuery-UI-Theme/JQueryUISolutionExplorerSample.png)
 
 In development while Bundling is turned off accessing an image in the menu.less file might look something like this.&nbsp; 
   <pre class="prettyprint">#contentContainer {

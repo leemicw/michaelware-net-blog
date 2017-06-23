@@ -18,7 +18,7 @@ I placed a tape measure on the ground measuring our ten feet (about 3 meters) fr
 
 &nbsp;
 
-[![TestingSetup](http://www.michaelware.net/image.axd?picture=TestingSetup_thumb.jpg "TestingSetup")](http://www.michaelware.net/image.axd?picture=TestingSetup.jpg)
+![Testing Setup](/content/images/2013/Nissan-Altima-Key-Testing/TestingSetup.jpg)
 
 ## How close to you have to be to unlock the car?
 

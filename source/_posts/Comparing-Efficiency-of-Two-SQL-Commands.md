@@ -8,7 +8,7 @@ I am often working on SQL Server as my database backend.&nbsp; When trying to de
 
 &nbsp;
 
-[![image](http://www.michaelware.net/image.axd?picture=image_thumb.png "image")](http://www.michaelware.net/image.axd?picture=image.png)
+![Blank Info](/content/images/2012/Comparing-Efficiency-of-Two-SQL-Commands/blankInfo.png)
 
 &nbsp;
 
@@ -19,7 +19,7 @@ SET STATISTICS TIME ON
 
 After running the same simple “select * from tablename” query as above you get the following results.
 
-[![image](http://www.michaelware.net/image.axd?picture=image_thumb_1.png "image")](http://www.michaelware.net/image.axd?picture=image_1.png)
+![Stats Info](/content/images/2012/Comparing-Efficiency-of-Two-SQL-Commands/statsInfo.png)
 
 There are three parts of this I often use.
 
